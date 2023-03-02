@@ -1,2 +1,2 @@
 # TinDog
-HTML + CSS WebSite
+/index.html
