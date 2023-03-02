@@ -1,4 +1,7 @@
 /* HTML Elements */
+html{
+    overflow-x: hidden;
+}
 
 body {
     font-family: 'Montserrat', sans-serif;
@@ -185,6 +188,7 @@ p {
 /* MediaQuery responsiveness*/
 
 @media (max-width: 1000px) {
+
 
     .title-heading {
         text-align: center;
