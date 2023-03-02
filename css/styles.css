@@ -192,7 +192,7 @@ p {
 
     .title-heading {
         text-align: center;
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
 
     .download-button {
@@ -211,7 +211,7 @@ p {
     }
 
     .testimonial-text {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     .testimonial-image {
@@ -225,7 +225,7 @@ p {
     }
 
     .section-heading, .price-text {
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
 
     .cta {
