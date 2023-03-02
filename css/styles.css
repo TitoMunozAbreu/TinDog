@@ -186,19 +186,17 @@ p {
 
 @media (max-width: 1000px) {
 
-    h1 {
+    .title-heading {
+        text-align: center;
         font-size: 3rem;
     }
 
-    h2 {
-        font-size: 1.5rem;
-    }
-
-    #title {
-        text-align: center;
+    .download-button {
+        margin-left: 30% ;
     }
 
     .img-title {
+        margin-left: 25%;
         padding-top: 5%;
         position: static;
         transform: rotate(0);
@@ -206,6 +204,10 @@ p {
 
     .carousel-item {
         padding: 15% 10%;
+    }
+
+    .testimonial-text {
+        font-size: 2rem;
     }
 
     .testimonial-image {
@@ -218,15 +220,13 @@ p {
         width: 50%;
     }
 
+    .section-heading, .price-text {
+        font-size: 2.5rem;
+    }
+
     .cta {
         width: 80%;
         padding-left: 20%;
     }
-
-    .cta-heading {
-        font-size: 2.5rem;
-    }
-
-
 
 }
