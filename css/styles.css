@@ -188,7 +188,9 @@ p {
 /* MediaQuery responsiveness*/
 
 @media (max-width: 1000px) {
-
+    html{
+        overflow-x: hidden;
+    }
 
     .title-heading {
         text-align: center;
